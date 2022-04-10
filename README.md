@@ -12,3 +12,8 @@ NNID: Name Test
 Wii U IP: 192.168.1.97
 
 Success!
+
+## Usage example
+
+https://user-images.githubusercontent.com/90534409/162599189-9489a8a3-a9ff-4b7f-a76c-69d17c64109c.mp4
+
