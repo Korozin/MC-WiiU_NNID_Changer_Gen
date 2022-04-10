@@ -1,13 +1,14 @@
 # MC-WiiU_NNID_Changer_Gen
-simply run the .py file and put in the name where it asks for input.
-to run: "python NNID-Gen.py"
+Run the .py file and when it says NNID: type the desired name.
 
-once ran it will return
+After you type the NNID you'd like put in your IP when it asks for it
 
-NNID:
+Example of usage
 
-Simple type your desired name like so
+python NNID-Change.py
 
-NNID:Korozin
+NNID: Name Test
 
-and it will give you the code.
+Wii U IP: 192.168.1.97
+
+Success!
